@@ -8,7 +8,7 @@
   "server": {
     "ip": "SurviveVOID.aternos.me",
     "port": 57840,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "0909"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Im AFK!"
       ]
     },
     "chat-log": true,
@@ -74,7 +72,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1497829652306198538/85q4oW0eax-ydVsNm7Q4mywvMSOkaEKb40Fvj7f94xjCGm-7Wydb4VT7zxEVTAlO0CCA",
     "events": {
       "connect": true,
       "disconnect": true,
