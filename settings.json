@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SurviveVOID.aternos.me",
-    "port": 57840,
+    "ip": "GupySMP.aternos.me",
+    "port": 55598,
     "version": "1.21.11",
     "try-creative": false
   },
