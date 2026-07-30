@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "0909"
+      "password": "09090909"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Im AFK!"
+        "Hi Everyone, I'm AFK!"
       ]
     },
     "chat-log": true,
@@ -71,12 +71,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "https://discord.com/api/webhooks/1497829652306198538/85q4oW0eax-ydVsNm7Q4mywvMSOkaEKb40Fvj7f94xjCGm-7Wydb4VT7zxEVTAlO0CCA",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1532407979930812730/SIKa9DUAmj9tqU9VLQx6F_reAEx4xOxkbhWFCeuSl8b0iuziv453P7QVWp6BHg238b8B",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
