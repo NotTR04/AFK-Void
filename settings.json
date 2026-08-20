@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK",
+    "username": "SigmaBOI",
     "password": "09090909",
     "type": "offline"
   },
   "server": {
-    "ip": "Tr1koSMP.aternos.me",
-    "port": 55598,
+    "ip": "Funtime04.aternos.me",
+    "port": 64848,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "09090909"
     },
     "anti-afk": {
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 150,
       "messages": [
         "Hi Everyone, I'm AFK!"
       ]
